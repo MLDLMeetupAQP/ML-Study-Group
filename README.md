@@ -1,9 +1,10 @@
 # Grupo de Estudios de Machine Learning
 
-<p align="center">
+<a href="#">
+ <p align="center">
   <img src="./imgs/ml_study_group.png"  class="center" width="500" height="300" >
-</p>
-
+</p> 
+</a>
 Grupo de estudios basado en el curso [CS480/680 Spring 2019 - Introduction to Machine Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/) ofrecido por la universidad de Waterloo.
 
 ## ¿Cuál es la dinámica del grupo de estudio?
