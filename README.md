@@ -24,6 +24,7 @@ Statistical Learning | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/
 Linear Regression by Maximum Likelihood | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1NG1qxiE8ZYYb_srV9jRWQEAqCLKjb_Ze/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/mbygZOAWUJA)
 Gaussian Discriminant Analysis |  | [![](./imgs/icon_youtube.png)](https://youtu.be/x5nrLjsT4rE)
 Logistic Regression and Generalized Linear Models | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1rI-a7HxN0q1MTfZmWYt7ctgim8RgkrQr/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/wgxG9zfCb4Q)
+Review |  | [![](./imgs/icon_youtube.png)](https://youtu.be/ZU4iKStrvG0)
 
 ## Assignments
 
